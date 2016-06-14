@@ -1,0 +1,35 @@
+{
+  "name": "afshin-vue-compiler",
+  "version": "1.0.0",
+  "description": "compile vue js files with gulp and babel and browserify in es6 way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vuejs",
+    "vuejs",
+    "compile",
+    "vue",
+    "js",
+    "maker"
+  ],
+  "author": "Afshin Akhgar",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.9.1",
+    "babel-plugin-transform-runtime": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-register": "^6.9.0",
+    "babel-runtime": "^6.9.2",
+    "babelify": "^7.3.0",
+    "browserify": "^13.0.1",
+    "gulp": "^3.9.1",
+    "vue-hot-reload-api": "^2.0.0",
+    "vueify": "^8.5.4"
+  },
+  "dependencies": {
+    "vue": "^1.0.24"
+  }
+}
