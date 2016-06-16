@@ -6,7 +6,7 @@ VueJS Compiler is a transformer for vue files . you can easily compile (transfor
 
 vueJsCompiler requires [Node.js](https://nodejs.org/) v4+ to run.
 ```sh
-$ git clone [git-repo-url] vueJsCompiler
+$ git clone git@github.com:afshinpersian/vueCompiler.git vueJsCompiler
 $ cd vueJsCompiler
 $ npm install
 ```
