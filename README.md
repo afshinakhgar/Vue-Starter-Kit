@@ -1,6 +1,6 @@
 # VueJS Compiler 
 
-VueJS Compiler is a transformer for vue files . you can easily compile (transform) your vue project .
+VueJS Compiler is a transformer for vue files . you can easily compile (transform) your vue project With gulp and browserify
 
 ### Installation
 
