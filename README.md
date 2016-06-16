@@ -25,7 +25,7 @@ $ gulp vue
 
 ### Tech
 
-Dillinger uses a number of open source projects to work properly:
+VueJs Compiler uses a number of open source projects to work properly:
 
 * [Vue Js] - Intuitive, Fast and Composable MVVM for building interactive interfaces!
 * [node.js] - evented I/O for the backend
