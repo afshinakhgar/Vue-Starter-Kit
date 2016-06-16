@@ -12,3 +12,8 @@ gulp.task('vue',function(){
 	.bundle()
 	.pipe(fs.createWriteStream("./dist/bundle.js"))
 });
+
+
+gulp.task('watch',function(){
+	    gulp.watch('./src/main.js', ['vue']);
+});
