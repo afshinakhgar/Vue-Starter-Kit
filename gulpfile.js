@@ -17,3 +17,6 @@ gulp.task('vue',function(){
 gulp.task('watch',function(){
 	    gulp.watch('./src/main.js', ['vue']);
 });
+
+
+gulp.task('default', ['vue'], function() {});
