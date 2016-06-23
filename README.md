@@ -1,6 +1,6 @@
 # VueJS Compiler 
 
-VueJS Compiler is a transformer for vue files . you can easily compile (transform) your vue project With gulp and browserify
+VueJS Compiler is a transformer for vue files . you can easily compile (transform) your vue project With gulp and browserify. Also Sass added to gulp workflow for better productivity.
 
 ### Installation
 
@@ -16,6 +16,21 @@ All package and dependencies will install.
 ```sh
 $ gulp vue
 ```
+
+#### for sass 
+```sh
+$ gulp sass
+```
+#### for vue and sass watch  
+```sh
+$ gulp watch
+```
+
+#### for production sass to minified css
+```sh
+$ gulp prod
+```
+
 ###### You can also:
 - add new gulp tasks such as default task
 - you can compile sass file - stylus files and other libraries in vue files with vuiefy
